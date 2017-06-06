@@ -10,3 +10,5 @@ This has been tested in SCCM 2012 R2 SP1 U8 and up.
 UPDATED 3/8/16: Added in a scrub for old UDA records for Mac devices if end-users or anyone else had manually put them into the SCCM console. This would interfere with the script's ability to sync up the UDA with JSS usernames properly.
 
 UPDATED 1/25/17: This has now been tested in SCCM CB 1511, 1602 and 1610.
+
+UPDATED 6/2/17: Tested successfully in 1704.
